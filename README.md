@@ -19,7 +19,11 @@ This is a simple command-line library management system implemented in Bash. It 
    ```bash
    cd Library-Management-System
 
-3. **Run the Script:**
+3. **Make the script executable:**
+   ```bash
+   chmod +x main.sh
+
+4. **Run the Script:**
    ```bash
    ./main.sh
 
