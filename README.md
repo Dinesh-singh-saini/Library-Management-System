@@ -9,6 +9,16 @@ This is a simple command-line library management system implemented in Bash. It 
 - **List All Books**: View a list of all books currently available in the library.
 - **Search for a Book**: Search for a book by its title.
 
+## Supported Operating Systems
+
+This script is designed to run on Unix-like operating systems, including:
+
+- Linux distributions (e.g., Ubuntu, CentOS, Debian, Fedora, Kali)
+- macOS
+- BSD operating systems (e.g., FreeBSD, OpenBSD, NetBSD)
+
+Please ensure that your system has Bash installed and properly configured.
+
 ## Usage
 
 1. **Clone the Repository:**
